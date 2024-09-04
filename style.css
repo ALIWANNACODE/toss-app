@@ -1,0 +1,13 @@
+.coin{
+width: 100px;
+height: 100px;
+background-color:yellow;border: 1px solid #0000;
+border-radius: 60%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: bolder;
+font-size: 30px;
+animation: infinite;
+align-content: center;
+}
